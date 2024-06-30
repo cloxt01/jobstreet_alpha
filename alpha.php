@@ -1,4 +1,5 @@
 <?php
+//deer
 //INIALISASI CURL
 function generateUUIDv4() {
     // Hasilkan 16 byte acak
