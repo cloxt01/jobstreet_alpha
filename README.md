@@ -5,7 +5,7 @@ Tentu, berikut ini adalah versi yang lebih lengkap dan detail untuk file README 
 # JobStreet Alpha
 
 ## Deskripsi
-Repo `jobstreet_alpha` merupakan proyek untuk memfasilitasi pemantauan dan pengiriman lamaran pekerjaan secara otomatis di platform JobStreet. Script ini dikembangkan untuk memungkinkan pengguna untuk mengotomatiskan proses pencarian dan aplikasi pekerjaan dengan format tertentu.
+`jobstreet_alpha` merupakan proyek untuk memfasilitasi pemantauan dan pengiriman lamaran pekerjaan secara otomatis di platform JobStreet. Script ini dikembangkan untuk memungkinkan pengguna untuk mengotomatiskan proses pencarian dan aplikasi pekerjaan dengan format tertentu.
 
 ## Fitur Utama
 - **Pemantauan Otomatis**: Script `alpha.php` secara terus-menerus memantau situs JobStreet untuk peluang pekerjaan baru yang sesuai dengan kriteria yang ditentukan.
